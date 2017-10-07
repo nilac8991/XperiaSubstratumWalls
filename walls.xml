@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="Xperia XZ Walls A1">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A1.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A1.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls A2">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A2.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A2.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls A3">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A3.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A3.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls A4">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A4.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/A4.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls B1">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B1.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B1.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls B2">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B2.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B2.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls B3">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B3.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B3.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls B4">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B4.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/B4.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls C1">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C1.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C1.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls C2">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C2.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C2.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls C3">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C3.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C3.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls C4">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C4.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/C4.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls D1">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D1.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D1.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls D2">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D2.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D2.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls D3">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D3.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D3.png</preview>
+    </wallpaper>
+    <wallpaper id="Xperia XZ Walls D4">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D4.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/D4.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X1">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X1.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X1.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X2">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X2.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X2.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X3">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X3.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X3.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X4">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X4.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X4.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X5">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X5.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X5.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X6">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X6.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X6.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X7">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X7.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X7.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X8">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X8.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X8.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X9">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X9.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X9.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X10">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X10.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X10.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X11">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X11.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X11.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X12">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X12.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X12.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X13">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X13.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X13.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X14">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X14.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X14.png</preview>
+    </wallpaper>
+    <wallpaper id="XOSP Walls X15">
+        <link>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X15.png</link>
+        <preview>https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-n-rebase/prebuilt/common/etc/customization/content/com/sonyericsson/wallpaperpicker/wallpapers/X15.png</preview>
+    </wallpaper>
+</substratum>
